@@ -38,7 +38,7 @@ Architecture: $ARCH
 Installed-Size: $SIZE
 Maintainer: Andrej Ristic <andrej.s.ristic@gmail.com>
 Depends: libc6 (>= 2.34), libgl1, libegl1, libfontconfig1, libxkbcommon0, libdbus-1-3
-Homepage: https://github.com/andrejristic/pse-math
+Homepage: https://github.com/zeravatechnologies/andrej-pse-math
 Description: PSE Math - a research workbench for mathematical conjectures
  A PSE-governed desktop workbench for building, refuting and tracking
  mathematical conjectures, with a shared library of results and a journal.
